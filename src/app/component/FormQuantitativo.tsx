@@ -44,7 +44,7 @@ export default function FormQuantitativo() {
   }
 
   return (
-    <Container maxWidth="md" sx={{ mt: "2em" }}>
+    <Container maxWidth="md" sx={{ mt: "2em", color:'black' }}>
       <Typography variant="h2" component="h2">
         Questionário Tracking Semanal
       </Typography>
