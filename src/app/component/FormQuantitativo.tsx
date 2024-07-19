@@ -179,17 +179,17 @@ export default function FormQuantitativo() {
               <FormControlLabel
                 value="Católica"
                 control={<Radio />}
-                label="Masculino"
+                label="Católica"
               />
               <FormControlLabel
                 value="Evangélica"
                 control={<Radio />}
-                label="Feminino"
+                label="Evangélica"
               />
               <FormControlLabel
                 value="Sem religião"
                 control={<Radio />}
-                label="Prefiro não dizer"
+                label="Sem religião"
               />
               <FormControlLabel
                 value="Outras"
